@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="palabras">
+        <item>Anolfabeto</item>
+        <item>Anormul</item>
+        <item>Grorrino</item>
+        <item>Majaunistan</item>
+        <item>Copipastero</item>
+    </string-array>
+</resources>
